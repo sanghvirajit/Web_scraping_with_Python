@@ -26,4 +26,4 @@ Time-Series-Analysis is also performed on the stock prices of Apple. Data of the
 
 A Linear regression model was build to predict the future closing price of the stock
 
-![linear_regression](https://user-images.githubusercontent.com/69073063/132522126-25d74aee-99d7-4b31-b695-addc09c0e0e1.png)
+![linear_regression](https://user-images.githubusercontent.com/69073063/132524202-22889fe9-6012-41b9-82b6-56e00f8e068d.png)
