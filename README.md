@@ -21,3 +21,9 @@ Being an early stage investor and curious about the stock market analysis. This 
 Time-Series-Analysis is also performed on the stock prices of Apple. Data of the past year 09.2020 - 09.2021 were collected from the yahoo finance.
 
 ![Apple](https://user-images.githubusercontent.com/69073063/132508771-82e48e8c-1cb7-4126-bbac-af01661b555d.png)
+
+### Machine learning regression model to predict future closing price of the stock
+
+A Linear regression model was build to predict the future closing price of the stock
+
+![linear_regression](https://user-images.githubusercontent.com/69073063/132522126-25d74aee-99d7-4b31-b695-addc09c0e0e1.png)
