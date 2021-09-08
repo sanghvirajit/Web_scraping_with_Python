@@ -15,3 +15,9 @@ Being an early stage investor and curious about the stock market analysis. This 
 ### Collected data were transferred into a DataFrame and the Candlestick chart was build using Python.
  
 ![Orient](https://user-images.githubusercontent.com/69073063/129231978-dd58ecf3-e75e-4cc2-902c-39d2bba6fbcb.png)
+
+### Time Series Analysis 
+
+Time-Series-Analysis is also performed on the stock prices of Apple. Data of the past year 09.2020 - 09.2021 were collected from the yahoo finance.
+
+![Apple](https://user-images.githubusercontent.com/69073063/132508771-82e48e8c-1cb7-4126-bbac-af01661b555d.png)
